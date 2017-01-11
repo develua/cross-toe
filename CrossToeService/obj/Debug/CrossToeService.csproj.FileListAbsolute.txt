@@ -1,0 +1,12 @@
+c:\users\игорь\documents\visual studio 2013\Projects\exzam_1_1\CrossToeService\bin\Debug\CrossToeService.dll.config
+c:\users\игорь\documents\visual studio 2013\Projects\exzam_1_1\CrossToeService\bin\Debug\CrossToeService.dll
+c:\users\игорь\documents\visual studio 2013\Projects\exzam_1_1\CrossToeService\bin\Debug\CrossToeService.pdb
+c:\users\игорь\documents\visual studio 2013\Projects\exzam_1_1\CrossToeService\obj\Debug\CrossToeService.dll
+c:\users\игорь\documents\visual studio 2013\Projects\exzam_1_1\CrossToeService\obj\Debug\CrossToeService.pdb
+c:\users\игорь\documents\visual studio 2013\Projects\exzam_1_1\CrossToeService\obj\Debug\CrossToeService.csprojResolveAssemblyReference.cache
+C:\Users\proda\Documents\GitHub\projects\Работы\WCF\exzam_1_1\CrossToeService\bin\Debug\CrossToeService.dll.config
+C:\Users\proda\Documents\GitHub\projects\Работы\WCF\exzam_1_1\CrossToeService\bin\Debug\CrossToeService.dll
+C:\Users\proda\Documents\GitHub\projects\Работы\WCF\exzam_1_1\CrossToeService\bin\Debug\CrossToeService.pdb
+C:\Users\proda\Documents\GitHub\projects\Работы\WCF\exzam_1_1\CrossToeService\obj\Debug\CrossToeService.csprojResolveAssemblyReference.cache
+C:\Users\proda\Documents\GitHub\projects\Работы\WCF\exzam_1_1\CrossToeService\obj\Debug\CrossToeService.dll
+C:\Users\proda\Documents\GitHub\projects\Работы\WCF\exzam_1_1\CrossToeService\obj\Debug\CrossToeService.pdb

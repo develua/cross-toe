@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrossToeService", "CrossToeService\CrossToeService.csproj", "{496E5964-2C9B-4BF9-A937-6597D3295249}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrossToeClient", "CrossToeClient\CrossToeClient.csproj", "{934B3582-5D88-41ED-BC26-A65B91B805F0}"
+	ProjectSection(ProjectDependencies) = postProject
+		{496E5964-2C9B-4BF9-A937-6597D3295249} = {496E5964-2C9B-4BF9-A937-6597D3295249}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{496E5964-2C9B-4BF9-A937-6597D3295249}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{496E5964-2C9B-4BF9-A937-6597D3295249}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{496E5964-2C9B-4BF9-A937-6597D3295249}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{496E5964-2C9B-4BF9-A937-6597D3295249}.Release|Any CPU.Build.0 = Release|Any CPU
+		{934B3582-5D88-41ED-BC26-A65B91B805F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{934B3582-5D88-41ED-BC26-A65B91B805F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{934B3582-5D88-41ED-BC26-A65B91B805F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{934B3582-5D88-41ED-BC26-A65B91B805F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

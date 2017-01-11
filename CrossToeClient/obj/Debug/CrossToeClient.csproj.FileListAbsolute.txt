@@ -1,0 +1,28 @@
+c:\users\игорь\documents\visual studio 2013\Projects\exzam_1_1\CrossToeClient\bin\Debug\CrossToeClient.exe.config
+c:\users\игорь\documents\visual studio 2013\Projects\exzam_1_1\CrossToeClient\bin\Debug\CrossToeClient.exe
+c:\users\игорь\documents\visual studio 2013\Projects\exzam_1_1\CrossToeClient\bin\Debug\CrossToeClient.pdb
+c:\users\игорь\documents\visual studio 2013\Projects\exzam_1_1\CrossToeClient\obj\Debug\MainWindow.baml
+c:\users\игорь\documents\visual studio 2013\Projects\exzam_1_1\CrossToeClient\obj\Debug\App.baml
+c:\users\игорь\documents\visual studio 2013\Projects\exzam_1_1\CrossToeClient\obj\Debug\MainWindow.g.cs
+c:\users\игорь\documents\visual studio 2013\Projects\exzam_1_1\CrossToeClient\obj\Debug\App.g.cs
+c:\users\игорь\documents\visual studio 2013\Projects\exzam_1_1\CrossToeClient\obj\Debug\CrossToeClient_MarkupCompile.cache
+c:\users\игорь\documents\visual studio 2013\Projects\exzam_1_1\CrossToeClient\obj\Debug\CrossToeClient.g.resources
+c:\users\игорь\documents\visual studio 2013\Projects\exzam_1_1\CrossToeClient\obj\Debug\CrossToeClient.Properties.Resources.resources
+c:\users\игорь\documents\visual studio 2013\Projects\exzam_1_1\CrossToeClient\obj\Debug\CrossToeClient.csproj.GenerateResource.Cache
+c:\users\игорь\documents\visual studio 2013\Projects\exzam_1_1\CrossToeClient\obj\Debug\CrossToeClient.exe
+c:\users\игорь\documents\visual studio 2013\Projects\exzam_1_1\CrossToeClient\obj\Debug\CrossToeClient.pdb
+c:\users\игорь\documents\visual studio 2013\Projects\exzam_1_1\CrossToeClient\obj\Debug\CrossToeClient.csprojResolveAssemblyReference.cache
+C:\Users\proda\Documents\GitHub\projects\Работы\WCF\exzam_1_1\CrossToeClient\bin\Debug\CrossToeClient.exe.config
+C:\Users\proda\Documents\GitHub\projects\Работы\WCF\exzam_1_1\CrossToeClient\obj\Debug\CrossToeClient.exe
+C:\Users\proda\Documents\GitHub\projects\Работы\WCF\exzam_1_1\CrossToeClient\obj\Debug\CrossToeClient.pdb
+C:\Users\proda\Documents\GitHub\projects\Работы\WCF\exzam_1_1\CrossToeClient\bin\Debug\CrossToeClient.exe
+C:\Users\proda\Documents\GitHub\projects\Работы\WCF\exzam_1_1\CrossToeClient\bin\Debug\CrossToeClient.pdb
+C:\Users\proda\Documents\GitHub\projects\Работы\WCF\exzam_1_1\CrossToeClient\obj\Debug\CrossToeClient.csprojResolveAssemblyReference.cache
+C:\Users\proda\Documents\GitHub\projects\Работы\WCF\exzam_1_1\CrossToeClient\obj\Debug\MainWindow.baml
+C:\Users\proda\Documents\GitHub\projects\Работы\WCF\exzam_1_1\CrossToeClient\obj\Debug\App.baml
+C:\Users\proda\Documents\GitHub\projects\Работы\WCF\exzam_1_1\CrossToeClient\obj\Debug\MainWindow.g.cs
+C:\Users\proda\Documents\GitHub\projects\Работы\WCF\exzam_1_1\CrossToeClient\obj\Debug\App.g.cs
+C:\Users\proda\Documents\GitHub\projects\Работы\WCF\exzam_1_1\CrossToeClient\obj\Debug\CrossToeClient_MarkupCompile.cache
+C:\Users\proda\Documents\GitHub\projects\Работы\WCF\exzam_1_1\CrossToeClient\obj\Debug\CrossToeClient.g.resources
+C:\Users\proda\Documents\GitHub\projects\Работы\WCF\exzam_1_1\CrossToeClient\obj\Debug\CrossToeClient.Properties.Resources.resources
+C:\Users\proda\Documents\GitHub\projects\Работы\WCF\exzam_1_1\CrossToeClient\obj\Debug\CrossToeClient.csproj.GenerateResource.Cache
